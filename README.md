@@ -8,6 +8,6 @@ When server in running, it will wait for the client to connect and maintain comm
 
 You can post message to all online users by server
 
-Server listens port 9999
+Server listens on port 9999
 
 Server shows client actions and requests
